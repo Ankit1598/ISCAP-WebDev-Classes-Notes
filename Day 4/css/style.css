@@ -1,0 +1,28 @@
+p {
+	border: 5px solid red;
+}
+
+.box2 p {
+	margin: 0;
+	padding: 15px;
+}
+
+.box1,
+.box2,
+.box3 {
+	border: 5px solid greenyellow;
+	margin: 5px;
+}
+
+.box1 {
+	width: 25rem;
+}
+
+img {
+	border: 5px dashed red;
+}
+
+.box3 {
+	background-image: url(https://www.placecage.com/gif/200/200);
+	height: 10rem;
+}
