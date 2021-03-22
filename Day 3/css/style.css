@@ -1,0 +1,49 @@
+/* This is my CSS File */
+/* Cascading Style Sheet */
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #ffffcc;
+	background-image: url(https://placekitten.com/400/);
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: #fff;
+}
+
+h1 {
+	color: maroon;
+}
+
+h1 {
+	color: #63eccb;
+}
+
+img {
+	border: 10px dashed #ff0005;
+	border-radius: 10px;
+}
+
+blockquote {
+	font-size: 3rem;
+	text-align: center;
+	color: white;
+}
+
+cite {
+	font-size: 2rem;
+}
+
+ul a:link {
+	color: violet;
+	text-decoration: none;
+}
+
+ul a:visited {
+	color: red;
+}
+
+/* link, visited, hover, focus, active */
+
+.bolder {
+	font-weight: bold;
+	color: red;
+}
