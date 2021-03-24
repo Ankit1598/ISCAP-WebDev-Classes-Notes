@@ -7,3 +7,4 @@ Repo for ISCAP WebDev Classes Notes
 3. [Day 4](https://github.com/Ankit1598/ISCAP-WebDev-Classes-Notes/tree/master/Day%204)
 4. [Day 5](https://github.com/Ankit1598/ISCAP-WebDev-Classes-Notes/tree/master/Day%205)
 5. [Day 6](https://github.com/Ankit1598/ISCAP-WebDev-Classes-Notes/tree/master/Day%206)
+6. [Day 7](https://github.com/Ankit1598/ISCAP-WebDev-Classes-Notes/tree/master/Day%207)
