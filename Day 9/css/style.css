@@ -1,0 +1,25 @@
+.redSquare {
+	height: 250px;
+	width: 250px;
+	background-color: red;
+	margin-bottom: 50px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.borderBlack {
+	border: 5px solid black;
+}
+
+.borderDarkTurquoise {
+	border: 5px solid darkturquoise;
+}
+
+.darkturquoise {
+	color: darkturquoise;
+}
+
+.black {
+	color: black;
+}
