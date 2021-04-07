@@ -1,0 +1,36 @@
+.img-gallery,
+.btns {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.btns {
+	margin-top: 20px;
+	justify-content: space-evenly;
+}
+
+.img {
+	display: none;
+	height: 600px;
+}
+
+.active {
+	display: block;
+}
+
+.btn {
+	border: none;
+	border-radius: 5px;
+	background-color: #0074d9;
+	padding: 5px 20px;
+	font-size: 1.25rem;
+	color: #fff;
+	cursor: pointer;
+}
+
+.btn:disabled {
+	background-color: #666;
+	cursor: not-allowed;
+}

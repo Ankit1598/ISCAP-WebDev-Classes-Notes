@@ -1,0 +1,22 @@
+.swiper-slide {
+	text-align: center;
+}
+
+img {
+	height: 600px;
+}
+
+.main-nav {
+	background: #000;
+	color: #fff;
+	padding: 15px;
+	margin-bottom: 20px;
+}
+
+.logo {
+	margin: 0;
+	font-size: 3rem;
+	cursor: grab;
+	display: inline;
+	z-index: 10;
+}
